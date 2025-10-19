@@ -1,2 +1,3 @@
 # replicating-paper-figures
-Reproducing plots from papers.
+
+replicating-paper-figures  © 2025 by Alison Peard is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
